@@ -1,5 +1,4 @@
 <?php 
-    include_once('crud/UsuarioDAO.php');
 
     class Usuario {
         private $id;
